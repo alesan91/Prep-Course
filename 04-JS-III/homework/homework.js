@@ -276,7 +276,6 @@ function continueStatement(numero) {
   // Tu código:
   let valorNum = [];
   let numAument = numero;
-  let interupcion = false;
   for (let i = 0; i < 10; i++){
     
     if (i === 5){
